@@ -213,7 +213,7 @@ p {
 .thumbnail {
     box-shadow: none;
     border: 0;
-    padding: 2px 2px;
+    padding: 15px 15px;
 }
 
 .overlay {
